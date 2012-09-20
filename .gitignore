@@ -1,0 +1,2 @@
+# Ignore modules installed for grunt
+/node_modules/
